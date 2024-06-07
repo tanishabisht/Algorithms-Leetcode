@@ -19,8 +19,7 @@ class Solution:
 # Method 2 - Tiny bit faster
 class Solution:
     def hasAlternatingBits(self, n: int) -> bool:
-        x = n ^ (n >> 1) == (1 << n.bit_length()) - 1
-        return x & (x+1) == 0
+        return n ^ (n >> 1) == (1 << n.bit_length()) - 1
 
 
 # Method 3 - Fastest

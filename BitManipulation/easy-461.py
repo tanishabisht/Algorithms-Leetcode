@@ -9,5 +9,4 @@ def countSetBits(n:int) -> int:
 
 class Solution:
     def hammingDistance(self, x: int, y: int) -> int:
-        num = x ^ y
-        return countSetBits(num)
+        return countSetBits(x ^ y)

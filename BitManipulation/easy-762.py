@@ -20,7 +20,6 @@ class Solution:
         count = 0
         for i in range(left, right+1):
             setbits = countSetBits(i)
-            print(setbits)
             count += 1 if isPrime(setbits) else 0
         return count
         
