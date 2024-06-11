@@ -15,3 +15,9 @@
 # Sliding Window
 121. Best Time to Buy and Sell Stock
 3. Longest Substring Without Repeating Characters
+
+
+
+
+## DOUBTS
+2367. Number of Arithmetic Triplets
