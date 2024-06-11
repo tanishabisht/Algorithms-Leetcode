@@ -21,3 +21,4 @@
 
 ## DOUBTS
 2367. Number of Arithmetic Triplets
+821. Shortest Distance to a Character
