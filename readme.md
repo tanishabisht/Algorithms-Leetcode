@@ -16,9 +16,7 @@
 121. Best Time to Buy and Sell Stock
 3. Longest Substring Without Repeating Characters
 
-
-
-
 ## DOUBTS
 2367. Number of Arithmetic Triplets
 821. Shortest Distance to a Character
+696. Count Binary Substrings
