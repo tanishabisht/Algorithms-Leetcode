@@ -20,3 +20,7 @@
 2367. Number of Arithmetic Triplets
 821. Shortest Distance to a Character
 696. Count Binary Substrings
+541. Reverse String II
+88. Merge Sorted Array
+680. Valid Palindrome II
+2511. Maximum Enemy Forts That Can Be Captured
