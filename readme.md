@@ -18,3 +18,7 @@
 2511. Maximum Enemy Forts That Can Be Captured
 
 ## Day 4 (12 Jun): Sliding Window
+Fixed size: 643, 1652, 1876, 1984, 2269, 2379
+Variable size: 594, 2760, 2932, 3090
+Sliding window concept not used: 219
+Doutbs: 1763. Longest Nice Substring, 3095. Shortest Subarray With OR at Least K I
