@@ -1,4 +1,4 @@
-# Leetcode Questions - Easy
+# Leetcode Questions - Easy - 10 Days Challenge 
 
 ## Day 1 (6 Jun): Bit Manipulation
 20 Questions
@@ -34,3 +34,22 @@ Monotonic stack: 1475. Final Prices With a Special Discount in a Shop, 496. Next
 6 Questions
 
 Not implemented using queues: 387
+
+## Day 5 (13 Jun): Priority queue implemented using Heaps
+10 Questions
+
+## Day 6 (14 Jun): Binary Search
+## Day 6 (14 Jun): Linked List
+
+## Day 7 (16 Jun): Trees
+
+## Day 8 (17 Jun): Backtracking
+## Day 8 (17 Jun): Trie
+## Day 8 (17 Jun): Graph
+
+## Day 9 (19 Jun): Dynamic programming
+## Day 9 (19 Jun): Greedy
+
+## Day 10 (20 Jun): Math
+
+
