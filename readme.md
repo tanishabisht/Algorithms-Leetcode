@@ -18,10 +18,19 @@
 2511. Maximum Enemy Forts That Can Be Captured
 
 ## Day 4 (12 Jun, 13 Jun): Sliding Window
+12 Questions
+
 Fixed size: 643, 1652, 1876, 1984, 2269, 2379
 Variable size: 594, 2760, 2932, 3090
 Sliding window concept not used: 219
 Doutbs: 1763. Longest Nice Substring, 3095. Shortest Subarray With OR at Least K I
 
 ## Day 5 (13 Jun): Stacks
+8 Questions
+
 Monotonic stack: 1475. Final Prices With a Special Discount in a Shop, 496. Next Greater Element I
+
+## Day 5 (13 Jun): Queues
+6 Questions
+
+Not implemented using queues: 387
