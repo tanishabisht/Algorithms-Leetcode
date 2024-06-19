@@ -39,6 +39,8 @@ Not implemented using queues: 387
 10 Questions
 
 ## Day 6 (14 Jun): Binary Search
+2970. Count the Number of Incremovable Subarrays I
+
 ## Day 6 (14 Jun): Linked List
 
 ## Day 7 (16 Jun): Trees
