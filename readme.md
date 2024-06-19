@@ -39,9 +39,17 @@ Not implemented using queues: 387
 10 Questions
 
 ## Day 6 (14 Jun): Binary Search
+19 Questions
+
 2970. Count the Number of Incremovable Subarrays I
 
 ## Day 6 (14 Jun): Linked List
+
+Two pointers
+876. Middle of the Linked List
+
+Not written in Linked List format
+705. Design HashSet
 
 ## Day 7 (16 Jun): Trees
 
