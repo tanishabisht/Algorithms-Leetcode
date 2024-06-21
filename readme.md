@@ -43,7 +43,6 @@ Not implemented using queues: 387
 
 2970. Count the Number of Incremovable Subarrays I
 
-## Day 6 (19 Jun): Linked List
 
 Two pointers
 876. Middle of the Linked List
@@ -55,16 +54,17 @@ Not written in Linked List format
 463. Island Perimeter
 733. Flood Fill
 
-## Day 7 (20 Jun): Dynamic programming
 
-
-
-## Day 8 (17 Jun): Backtracking
-## Day 8 (17 Jun): Trie
 ## Day 8 (17 Jun): Graph
-
+## Day 8 (17 Jun): Backtracking
+## Day 7 (20 Jun): Dynamic programming
+## Day 6 (19 Jun): Linked List
 
 ## Day 9 (21 Jun): Greedy
 ## Day 10 (21 Jun): Math
+
+
+
+## Day 8 (17 Jun): Trie
 
 
