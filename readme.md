@@ -54,17 +54,10 @@ Not written in Linked List format
 463. Island Perimeter
 733. Flood Fill
 
-
+## Day 8 (21 Jun): Math
+## Day 8 (21 Jun): Greedy
+## Day 8 (17 Jun): Trie
 ## Day 8 (17 Jun): Graph
 ## Day 8 (17 Jun): Backtracking
 ## Day 7 (20 Jun): Dynamic programming
 ## Day 6 (19 Jun): Linked List
-
-## Day 9 (21 Jun): Greedy
-## Day 10 (21 Jun): Math
-
-
-
-## Day 8 (17 Jun): Trie
-
-
